@@ -1,15 +1,4 @@
-# Heading
-
----
-
-## Subheading
-
-1. item 1
-2. item 2
-3. item 3
-
-*this text is iteric*
-
-**this is bold**
-
-[link here](http://google.com)
+# Build-A-Technical-Documentation-Page
+FreeCodeCamp.com Responsive Web Design Certification Project - "Build a Technical Documentation Page"
+<https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/build-a-technical-documentation-page>
+Documentation about JavaScript!
